@@ -233,8 +233,3 @@ Pipeline complete.
 | **Python best practices** | Module-level constants; type hints on helper functions; `try/except` per-indicator rather than pipeline-level; `os.makedirs(exist_ok=True)`; `io.BytesIO` for in-memory Excel/Parquet download buffers | "Write clean, maintainable Python for production data engineering" |
 
 ---
-
-## 👤 Author
-
-Ian Mwendwa Mboyo — Data Engineer  
-[GitHub](https://github.com/declerke) · [Portfolio](https://ian-mwendwa.vercel.app)
