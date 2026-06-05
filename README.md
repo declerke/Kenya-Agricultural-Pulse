@@ -75,6 +75,8 @@ Kenya Agricultural Pulse builds that dashboard on real data. The World Bank WDI 
 
 ## 🌐 Live Dashboard
 
+**Live:** [https://kenya-agricultural-pulse.streamlit.app](https://kenya-agricultural-pulse.streamlit.app)
+
 Run locally after fetching data:
 
 ```powershell
